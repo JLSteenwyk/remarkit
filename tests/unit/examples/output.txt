@@ -1,0 +1,4 @@
+identifiers,overall_desirability,treeness_over_rcv_desirabilities,saturation_desirabilities,treeness_desirabilities,treeness_over_rcv,saturation,treeness
+Arpl24,1.0,1.0,0.694804,1.0,1.2609,0.5752,0.418
+Al12e,0.8495790939922008,0.808624,0.771556,0.779252,1.114,0.6303,0.3714
+Bpsma,0.8171381378070046,0.866076,0.933696,0.147797,1.1581,0.7467,0.2381
